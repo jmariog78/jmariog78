@@ -2,10 +2,7 @@
 
 <img width="584" height="305" alt="Image" src="https://github.com/user-attachments/assets/45b0a07c-5004-49bc-be0e-e5766979420c" />
 
-<!--
-**jmariog78/jmariog78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
