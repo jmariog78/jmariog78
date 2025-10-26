@@ -30,5 +30,5 @@ Diseño y documentación de flujo QA, con matrices de trazabilidad y cobertura d
 
 **Simulación de entorno Agile:**
 Participación en sprints de QA colaborando con desarrolladores y analistas de producto en la entrega incremental de funcionalidades.
-- ⚡ Fun fact: ...
+
 -->
