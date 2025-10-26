@@ -1,6 +1,6 @@
 ## Hola, soy Jorge Gutierrez 👋
 
-<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/a8179874-b778-4b95-badf-df4a2f37e836" />
+<img width="584" height="305" alt="Image" src="https://github.com/user-attachments/assets/45b0a07c-5004-49bc-be0e-e5766979420c" />
 
 <!--
 **jmariog78/jmariog78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
