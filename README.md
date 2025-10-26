@@ -1,6 +1,6 @@
 ## Hola, soy Jorge Gutierrez 👋
 
-<img width="584" height="305" alt="Image" src="https://github.com/user-attachments/assets/45b0a07c-5004-49bc-be0e-e5766979420c" />
+<img width="584" height="305" alt="banner-github0" src="https://github.com/user-attachments/assets/cd04c0b1-01c2-494e-bbdc-4e400f0d8102" />
 
 Ingeniero de Sistemas con enfoque en aseguramiento de la calidad del software y sólida comprensión del ciclo de vida del desarrollo. Apasionado por la detección temprana de defectos, la mejora continua y la entrega de productos de alto rendimiento. 
 
