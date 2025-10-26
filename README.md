@@ -8,27 +8,27 @@ Me caracterizo por mi pensamiento analítico, atención al detalle y capacidad p
 
 **Tecnologías y herramientas:**
 
-Pruebas manuales: Diseño y ejecución de casos de prueba, regresión, smoke y exploratorias.
+**Pruebas manuales:** Diseño y ejecución de casos de prueba, regresión, smoke y exploratorias.
 
-APIs: Postman, Swagger, REST, JSON, validaciones de endpoints y respuesta de servicios.
+**APIs:** Postman, Swagger, REST, JSON, validaciones de endpoints y respuesta de servicios.
 
-Gestión y seguimiento de defectos: Jira, Trello, TestRail, Zephyr.
+**Gestión y seguimiento de defectos:** Jira, Trello, TestRail, Zephyr.
 
-Metodologías: Agile, Scrum, Kanban.
+**Metodologías:** Agile, Scrum, Kanban.
 
-Versionamiento y documentación: GitHub, Confluence.
+**Versionamiento y documentación:** GitHub, Confluence.
 
-Próximas metas: profundizar en automatización con Selenium, Cypress y Python.
+**Próximas metas:** profundizar en automatización con Selenium, Cypress y Python.
 
-Proyectos destacados:
+**Proyectos destacados:**
 
-Urban Grocers Delivery App | Bootcamp TripleTen (2025):
+**Urban Grocers Delivery App | Bootcamp TripleTen (2025):**
 Ejecución de pruebas manuales de APIs y escenarios funcionales para una aplicación de entregas de comestibles. Validación de endpoints, manejo de errores y reporte de defectos en Jira.
 
-Sistema interno de gestión de incidencias (Proyecto académico):
+**Sistema interno de gestión de incidencias (Proyecto académico):**
 Diseño y documentación de flujo QA, con matrices de trazabilidad y cobertura de pruebas.
 
-Simulación de entorno Agile:
+**Simulación de entorno Agile:**
 Participación en sprints de QA colaborando con desarrolladores y analistas de producto en la entrega incremental de funcionalidades.
 - ⚡ Fun fact: ...
 -->
