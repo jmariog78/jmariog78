@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hola, soy Jorge Gutierrez 👋
 
 <!--
 **jmariog78/jmariog78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
