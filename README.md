@@ -25,9 +25,7 @@ Me caracterizo por mi pensamiento analítico, atención al detalle y capacidad p
 **Urban Grocers Delivery App | Bootcamp TripleTen (2025):**
 Ejecución de pruebas manuales de APIs y escenarios funcionales para una aplicación de entregas de comestibles. Validación de endpoints, manejo de errores y reporte de defectos en Jira.
 
-**Urban Lunch v 1.0** | Pruebas de aplicaciones móviles
-
-Ejecución de pruebas de aplicaciones móviles en Android Studio. Configuración de dispositivos Android en el simulador. Reporte de defectos en Jira
+**Urban Lunch v 1.0** | **Pruebas de aplicaciones móviles** . Ejecución de pruebas de aplicaciones móviles en Android Studio. Configuración de dispositivos Android en el simulador. Reporte de defectos en Jira, Informe de pruebas, análisis y conclusiónes.
 
 **Sistema interno de gestión de incidencias (Proyecto académico):**
 Diseño y documentación de flujo QA, con matrices de trazabilidad y cobertura de pruebas.
