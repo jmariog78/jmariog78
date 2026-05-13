@@ -22,6 +22,14 @@ Me caracterizo por mi pensamiento analítico, atención al detalle y capacidad p
 
 **Proyectos destacados:**
 
+**Pruebas de Automatización Web para la aplicación Urban Scooter | Bootcamp Tripleten (2026)**
+
+Diseño y desarrollo de scripts de prueba automatizados para validar los flujos críticos de la interfaz de usuario web utilizando el patrón Page Object Model (POM).
+Configuración de localizadores robustos y aserciones automatizadas para garantizar la estabilidad del software ante regresiones consecutivas
+Logro o impacto: Reducción del tiempo de ejecución de pruebas repetitivas, optimización del proceso de regresión y cobertura automatizada sobre flujos de usuario complejos
+Habilidades y tecnologías utilizadas: Python, Selenium WebDriver, Pytest, Page Object Model (POM), Git, GitHub.
+
+
 **Urban Grocers Delivery App | Bootcamp TripleTen (2025):**
 Ejecución de pruebas manuales de APIs y escenarios funcionales para una aplicación de entregas de comestibles. Validación de endpoints, manejo de errores y reporte de defectos en Jira.
 
